@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudranshtomar/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Rudranshtomar/LeetCode-Solutions/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Rudranshtomar/LeetCode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
